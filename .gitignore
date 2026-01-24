@@ -1,0 +1,24 @@
+# Ignore Gradle build outputs
+/build/
+/app/build/
+*.apk
+
+# IDE / editor junk
+.idea/
+*.iml
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Termux / local system config (exclude only if not needed)
+.termux/*
+!/.termux/termux.properties
+
+# Log and temp
+*.log
+*.tmp
+
+# Gradle wrapper cache
+.gradle/
