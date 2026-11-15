@@ -1,3 +1,5 @@
+> 📦 **Release 下载提示**：请前往对应的 GitLab 仓库查看或下载 Release（GitHub 端暂不重复上传）👉 [https://gitlab.com/xusu616/termux-background/-/releases](https://gitlab.com/xusu616/termux-background/-/releases) （[GitLab 仓库主页](https://gitlab.com/xusu616/termux-background)）
+
 # Termux Background
 
 > **✨ Status:**  Archived 已归档
